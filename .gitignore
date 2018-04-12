@@ -100,3 +100,5 @@ ENV/
 *.jpg
 
 .vscode
+*.gz
+.DS_Store
